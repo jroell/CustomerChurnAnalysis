@@ -1,0 +1,2 @@
+# CustomerChurnAnalysis
+Project to analyze and predict which customers will leave or stay with company. Uses Deep Learning with Artificial Neural Networks to predict customer leave/stay probability. This gives the business valuable insights into where they need to address customers that have a high probability of leaving. This model has been turned and reaches and accuracy rate of ~87% with its predictions of unseen data.  
